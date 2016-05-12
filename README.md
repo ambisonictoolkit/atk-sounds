@@ -26,10 +26,6 @@ If the ATK has been correctly installed, the above code will open the ATK's user
 
 *Note:* Users are strongly advised to download and install these files.
 
-## Working with this repository
-
-The sound files in this repository are versioned using [Git Large File Storage (LFS)](https://git-lfs.github.com/). You will need to install LFS in order to clone and work on this repository. The repository is set up to use LFS with all WAV files.
-
 ---
 
 
