@@ -43,6 +43,21 @@ http://soundofspace.com/ambisonic_files/41 [Accessed: 03-Nov-2011].
 
 Juan Pampin, "On Space," Les Percussions de Strasbourg 50th Anniversary Edition, Classics Jazz France 480 6512
 
+Daniel Peterson, "St_Alphonsus_Organ_FarField.wav," [unpublished recording]
+
+Daniel Peterson, "St_Alphonsus_Organ_MidField.wav," [unpublished recording]
+
+Daniel Peterson, "St_Alphonsus_Organ_NearField.wav," [unpublished recording]
+
+
+#### Double M/S recordings
+
+Daniel Peterson, "St_Alphonsus_Organ_FarField.wav," [unpublished recording]
+
+Daniel Peterson, "St_Alphonsus_Organ_MidField.wav," [unpublished recording]
+
+Daniel Peterson, "St_Alphonsus_Organ_NearField.wav," [unpublished recording]
+
 
 #### Multichannel recordings
 
