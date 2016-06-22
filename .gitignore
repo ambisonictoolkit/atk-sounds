@@ -1,2 +1,5 @@
 # OSX Desktop Service Store
 .DS_Store
+
+# REAPER waveform peak files
+*.reapeaks
