@@ -23,19 +23,17 @@ Comparative Surround Recording, 2007. [Online]. Available:
 http://www.radio.uqam.ca/ambisonic/comparative_recording.html
 [Accessed: 26-Jul-2011].
 
-P. Hodges, "Purcell - Passacaglia (King Arthur)," Sound of Space:
-ambisonic surround sound. [Online]. Available:
-http://soundofspace.com/ambisonic_files/52 [Accessed: 03-Nov-2011].
+P. Hodges, "Purcell - Passacaglia (King Arthur)," Ambisonic.info [Online]. Available:
+http://ambisonic-files.s3.amazonaws.com/AMB/pwh-Purcell-Passacaglia(HowHappy).amb [Accessed: 27-Jul-2017].
 
 Tim Howle, "Calling Tunes," 20 Odd Years, FMR FMRCD316-0711
 
-J. Leonard, "A couple of Chinook helicopters," Sound of Space:
-ambisonic surround sound, 20-Mar-2008. [Online]. Available:
-http://soundofspace.com/ambisonic_files/47. [Accessed: 03-Nov-2011].
+J. Leonard, "A couple of Chinook helicopters," Ambisonic.info, 20-Mar-2008. [Online]. Available:
+https://ambisonic-files.s3.amazonaws.com/JL/jlc2.amb. [Accessed: 27-Jul-2017].
 
-J. Leonard, "Fireworks" Sound of Space: ambisonic surround sound,
+J. Leonard, "Fireworks" Ambisonic.info,
 25-Aug-2009. [Online]. Available:
-http://soundofspace.com/ambisonic_files/37. [Accessed: 03-Nov-2011].
+http://ambisonic-files.s3.amazonaws.com/JL/Fireworks.amb. [Accessed: 27-Jul-2017].
 
 J. Leonard, "The Orfeo Trio & TetraMic," Sound of Space:
 ambisonic surround sound. [Online]. Available:
