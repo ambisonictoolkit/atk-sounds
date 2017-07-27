@@ -35,9 +35,8 @@ J. Leonard, "Fireworks" Ambisonic.info,
 25-Aug-2009. [Online]. Available:
 http://ambisonic-files.s3.amazonaws.com/JL/Fireworks.amb. [Accessed: 27-Jul-2017].
 
-J. Leonard, "The Orfeo Trio & TetraMic," Sound of Space:
-ambisonic surround sound. [Online]. Available:
-http://soundofspace.com/ambisonic_files/41 [Accessed: 03-Nov-2011].
+J. Leonard, "The Orfeo Trio & TetraMic," Ambisonic.info. [Online]. Available:
+http://ambisonic-files.s3.amazonaws.com/JL/orfeo.amb [Accessed: 27-Jul-2017].
 
 Juan Pampin, "On Space," Les Percussions de Strasbourg 50th Anniversary Edition, Classics Jazz France 480 6512
 
