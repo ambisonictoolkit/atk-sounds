@@ -2,8 +2,6 @@
 
 A number of 30 second extracts from published and unpublished recordings.
 
-Files in the "b-format" folder are traditional first-order B-format recordings, which use the Furse-Malham component ordering (WXYZ) and MaxN normalization schemes, and which have a wavefield-encoded radial distance of infinity. They can be directly decoded using the FoaDecode UGen, in combination with a suitable decoder object, such as FoaDecoderMatrix.newStereo.
-
 ## Using the example files with Reaper
 
 These example files are not required in order for ATK for Reaper to work, but they may come in handy when testing the various encoders, transformers and decorders in Reaper projects.
@@ -23,7 +21,8 @@ Atk.openUserSupportDir;
 )
 ```
 
-
 If the ATK has been correctly installed, the above code will open the ATK's user support directory. Place the downloaded soundfiles here.
+
+Files in the "b-format" folder are traditional first-order B-format recordings, which use the Furse-Malham component ordering (WXYZ) and MaxN normalization scheme, and which have a wavefield-encoded radial distance of infinity. They can be directly decoded using the FoaDecode UGen, in combination with a suitable decoder object, such as FoaDecoderMatrix.newStereo.
 
 *Note:* ATK for SuperCollider users are strongly advised to download and install these files.
