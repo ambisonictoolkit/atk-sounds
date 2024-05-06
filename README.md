@@ -1,6 +1,7 @@
 # Sound Examples for the Ambisonic Toolkit
 
 A number of 30 second extracts from published and unpublished recordings.
+ATK for SuperCollider users are strongly advised to download and install these files.
 
 ## Using the example files with Reaper
 
@@ -21,7 +22,7 @@ Atk.openUserSupportDir;
 )
 ```
 
-
 If the ATK has been correctly installed, the above code will open the ATK's user support directory. Place the downloaded soundfiles here.
 
-*Note:* ATK for SuperCollider users are strongly advised to download and install these files.
+> [!NOTE]  
+> Files in the "b-format" folder are traditional first-order B-format recordings, which use the Furse-Malham component ordering (WXYZ) and MaxN normalization scheme, and which have a wavefield-encoded radial distance of infinity. They can be directly decoded using the `FoaDecode` UGen, in combination with a suitable decoder object, such as `FoaDecoderMatrix.newStereo`.
